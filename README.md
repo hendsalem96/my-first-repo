@@ -1,3 +1,3 @@
-# my-first-repo minor update
+# my-first-repoe
 practice account for learning Git
 
